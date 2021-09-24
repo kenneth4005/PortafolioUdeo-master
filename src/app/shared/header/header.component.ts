@@ -11,6 +11,7 @@ export class HeaderComponent implements OnInit {
   constructor(public _servicio: InfoPaginaService) { }
 
   ngOnInit(): void {
+    
   }
 
 }

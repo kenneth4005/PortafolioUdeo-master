@@ -11,6 +11,8 @@ anio: number = new Date().getFullYear();
   constructor(public _servicio: InfoPaginaService) { }
 
   ngOnInit(): void {
+    console.log(this._servicio)
   }
 
 }
+
