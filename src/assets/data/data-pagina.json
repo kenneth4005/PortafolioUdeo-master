@@ -1,0 +1,26 @@
+{
+"titulo": "Mynor Vásquez",
+"email": "mvasquez@gmail.com",
+"nombre_corto": "Mynor",
+"pagina_autor": "https://mipagina.com.gt",
+"facebook": "https://www.facebook.com/mmynnor",
+"twitter": "https://www.twitter.com/mmynnor",
+"instagram":"https://www.instagram.com/mmynnor",
+"tumbler": "https://www.tumbler.com/mmynnor",
+"equipo_trabajo":[{
+        "nombre": "Pedro",
+        "apellido":"Blanco",
+        "dpi":"152555985",
+        "dependientes":[{
+            "nombre": "Steveen",
+            "apellido":"Blanco",
+            "dpi":"5465626"},{
+                "nombre": "Flor",
+                "apellido":"Blanco",
+                "dpi":"841562"}  
+            
+            
+            
+            ]
+}]
+}
